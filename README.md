@@ -43,4 +43,4 @@ Il y a là un Momentum rendu possible par :
 
 Le document officiel rapporte en préambule un message du Premier Ministre et un avant-propos de la Ministre du Développement Rural.
 
-Une traduction en est proposée ici.
+Une traduction en est proposée [ici](https://github.com/fbattello/OurRuralFuture/raw/main/ourruralfuture_traduction_preambule.pdf).
